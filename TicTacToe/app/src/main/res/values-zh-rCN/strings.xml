@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">九宫棋</string>
+    <string name="info">信息</string>
+    <string name="startNewGame">开始一次新游戏</string>
+    <string name="youGoFirst">你先开始。</string>
+    <string name="androidTurn">机器人的回合</string>
+    <string name="yourTurn">你的回合(X)。</string>
+    <string name="tie">平局！</string>
+    <string name="youWon">你赢了!</string>
+    <string name="androidWon">机器人赢了!</string>
+    <string name="exit">退出</string>
+    <string name="difficulty">难度</string>
+    <string name="winCount">获胜记录</string>
+    <string name="winRecordDetail">你获胜的次数: %d, 机器人获胜的次数: %d, 平局的次数: %d。</string>
+    <string name="level1">难度 1</string>
+    <string name="level2">难度 2</string>
+    <string name="level3">难度 3</string>
+</resources>

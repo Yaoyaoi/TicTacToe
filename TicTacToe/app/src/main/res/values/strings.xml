@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="info">info</string>
+    <string name="startNewGame">Start a New Game</string>
+    <string name="youGoFirst">You go first.</string>
+    <string name="androidTurn">It is Android turn.</string>
+    <string name="yourTurn">It is your turn (X).</string>
+    <string name="tie">It is a tie!</string>
+    <string name="youWon">You won!</string>
+    <string name="androidWon">Android won!</string>
+    <string name="exit">Exit</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="winCount">Winning record</string>
+    <string name="winRecordDetail">Human wins count: %d, Android wins count: %d, Tie count: %d</string>
+    <string name="level1">Level 1</string>
+    <string name="level2">Level 2</string>
+    <string name="level3">Level 3</string>
+</resources>
